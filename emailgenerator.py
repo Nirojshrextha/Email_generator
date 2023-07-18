@@ -69,8 +69,7 @@ made by: Dream
 """ + '\033[0m')
     print('\033[35m' + """ 
 
-    [1] generate Email1
-    
+    [1] generate Email
     [2] close program                                                                                          
 
 """ + '\033[0m')
