@@ -1,14 +1,15 @@
 # Email_generator
-generate unlimited email
+Generate unlimited email
 
 
 How to use :
-download the repo
 
-open emailgenerator.py
+1.download the repo
 
-input ur gmail address and select how many emails u want to generate
+2.open emailgenerator.py
 
-the emails will be exported automatically to the "emailgenerator.py" directory (Output.txt)
+3.input ur gmail address and select how many emails u want to generate
 
-Enjoy with dream
+4.the emails will be exported automatically to the "emailgenerator.py" directory (Output.txt)
+
+5.Enjoy with dream
