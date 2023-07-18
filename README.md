@@ -1,8 +1,7 @@
 # Email_generator
-Generate unlimited email
+Generate unlimited email by this project 
 
-
-How to use :
+#  How to use :
 
 1.download the repo
 
